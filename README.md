@@ -11,6 +11,16 @@
   [![MongoDB](https://img.shields.io/badge/MongoDB-8.15.1-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 </div>
 
+<p align="center">
+  <a href="https://thelinkplaza.netlify.app/" target="_blank">
+    🌐 VISITA LA WEB DE TheLinkPlaza
+  </a>
+</p>
+
+[Repositorio del FrontEnd](https://github.com/alu0101540153/LinkPlaza_FrontendDeploy)
+
+
+
 ---
 
 ## 📋 Descripción
@@ -29,7 +39,15 @@ LinkPlaza Backend es una **API REST moderna y robusta** construida con Node.js, 
 - 📝 **Validación robusta** con Express Validator
 - 🎯 **API RESTful** siguiendo mejores prácticas
 
+
+
+<div align="center">
+  <img src="./public/bg.png" alt="LinkPlaza Background" width="600">
+</div>
+
 ---
+
+
 
 ## 🛠️ Tecnologías Utilizadas
 
