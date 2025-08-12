@@ -320,14 +320,7 @@ npm start
 ### Estándares de Código
 - Seguir convenciones de TypeScript
 - Documentar funciones complejas
-- Escribir tests para nuevas features
-- Mantener cobertura de tests > 80%
 
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia ISC. Ver el archivo `LICENSE` para más detalles.
 
 ---
 
@@ -335,15 +328,12 @@ Este proyecto está bajo la licencia ISC. Ver el archivo `LICENSE` para más det
 
 **Víctor Rodríguez Dorta**
 - GitHub: [@alu0101540153](https://github.com/alu0101540153)
-- Email: victor.rodriguez@example.com
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [Frontend Repository](https://github.com/alu0101540153/LinkPlaza_FrontendDeploy)
-- [Documentación API](https://api.linkplaza.com/docs)
-- [Demo en Vivo](https://linkplaza.com)
 
 ---
 
